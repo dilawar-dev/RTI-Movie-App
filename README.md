@@ -1,3 +1,4 @@
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -64,9 +65,30 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
+# themoviedb.org API Key
+
+If you don’t already have an account, you will need to create one in order to request an API Key.  
+    In your request for a key, state that your usage will be for educational/non-commercial use. You will also need to provide some personal information to complete the request. Once you submit your request, you should receive your key via email shortly after.
+
+Once you obtaint the API key, create a .env file at the root of the project and add the key as follows: 
+
+```
+API_KEY=YOUR_API_KEY_HERE
+```
+
+# App Screenshots
+
+<p float="left">
+<img src="https://github.com/dilawar-dev/RTI-Movie-App/blob/main/src/assets/screenshots/1.png" width="400">
+<img src="https://github.com/dilawar-dev/RTI-Movie-App/blob/main/src/assets/screenshots/2.png" width="400">
+</p>
+
+
 # Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+
+
 
 # Learn More
 
