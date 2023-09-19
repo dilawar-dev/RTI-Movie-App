@@ -14,6 +14,7 @@ const Metrics = {
     Regular: Fonts.RF(16),
     Large: Fonts.RF(18),
     Huge: Fonts.RF(20),
+    Mega: Fonts.RF(24),
   },
 };
 

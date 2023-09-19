@@ -30,15 +30,15 @@ const FontStyle = {
   },
   Rating: {
     fontSize: RF(14),
-    fontFamily: 'Urbanist-Bold',
+    fontFamily: 'Roboto-Bold',
   },
   ButtonText: {
     fontSize: RF(16),
-    fontFamily: 'Urbanist-Regular',
+    fontFamily: 'Roboto-Regular',
   },
   Body: {
     fontSize: RF(14),
-    fontFamily: 'Urbanist-Regular',
+    fontFamily: 'Roboto-Regular',
   },
 };
 

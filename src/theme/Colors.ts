@@ -5,4 +5,7 @@ export default {
 
   textPrimary: '#212121',
   textSecondary: '#757575',
+
+  divider: '#DEDEDE',
+  trailer: '#FAFAFA',
 };
