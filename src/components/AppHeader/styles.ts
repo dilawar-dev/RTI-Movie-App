@@ -1,4 +1,4 @@
-import {Colors, Metrics, Layout} from '@/theme';
+import {Colors, Metrics, Layout, Fonts} from '@/theme';
 import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
@@ -10,6 +10,9 @@ const styles = StyleSheet.create({
   root: {
     backgroundColor: Colors.primary,
     padding: Metrics.Spacing.Large,
+  },
+  backIcon: {
+    marginRight: Metrics.Spacing.Small,
   },
 });
 
